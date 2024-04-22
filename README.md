@@ -8,6 +8,11 @@ Each notebook was a group effort, with Allonsy handling the bulk of the programm
 
 Canvas Group Number: 31
 
+**Data is all here:
+	https://drive.google.com/drive/folders/1QgQSJT6FKIIQp86BXH1EhTdqwxh5KncX?usp=drive_link**
+ 
+**Some data can not be put on GitHub; plz download them from Google Drive!!!!**
+
 Datasets:
 	Arrest Records: https://data.wprdc.org/dataset/arrest-data
 		Additional data gathered from: https://datausa.io/profile/geo/mount-oliver-pa
@@ -21,6 +26,3 @@ neighborhood is best based on these metrics.
 Notes:
 	Data referenced as 'Outside City' was gathered within the greater Pittsburgh area in a place that does not fall into a specific neighborhood division
 	We forgot that the assignments for this class are due at 9:00 pm and spent some time after that revising the project further. We still submitted it on the due date
-
-Data is all here:
-	https://drive.google.com/drive/folders/1QgQSJT6FKIIQp86BXH1EhTdqwxh5KncX?usp=drive_link
